@@ -1,3 +1,4 @@
+/* globals.css */
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
@@ -15,9 +16,9 @@
 }
 
 body {
-  color: var(--foreground);
-  background: var(--background);
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: "游ゴシック体", YuGothic, "游ゴシック Medium", "Yu Gothic Medium", "游ゴシック", "Yu Gothic", sans-serif, -apple-system, BlinkMacSystemFont, Roboto;
+  background-color: #f0f8ff; /* 薄いブルー */
+  color: #333; /* ダークグレー */
 }
 
 @layer utilities {
