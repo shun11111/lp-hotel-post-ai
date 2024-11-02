@@ -2,7 +2,7 @@
 export default function Benefits() {
     return (
       <section className="p-10 text-gray-800">
-        <h2 className="text-2xl font-bold text-center mb-8">ブログ記事・SNS投稿をAIで作成するメリット</h2>
+        <h2 className="text-2xl font-bold text-center mb-8">AIでブログ記事・SNS投稿を作成するメリット</h2>
         <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
           <div className="bg-white p-6 shadow-lg rounded-lg">
             <h3 className="text-lg font-semibold mb-2">コンテンツ作成の効率化</h3>
