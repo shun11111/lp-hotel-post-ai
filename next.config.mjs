@@ -1,5 +1,5 @@
 /** @type {import('next').NextConfig} */
-const nextConfig = {
+export default {
     output: 'export',
     images: {
       unoptimized: true,
@@ -7,5 +7,3 @@ const nextConfig = {
     assetPrefix: '/', 
     trailingSlash: true,
 }
-
-export default nextConfig
