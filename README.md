@@ -6,6 +6,7 @@ hotel-post-aiのランディングページです。
 
 ---
 ## hotel-post-ai について(リポジトリは非公開)
+ホテルのブログ・SNSの投稿をAIで生成するサービスです。
 [https://hotel-post-ai.com/](https://hotel-post-ai.com/)
 
 ### フロントエンド
